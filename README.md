@@ -1,5 +1,15 @@
 # Electra_Erp
 
+--> Project Description:
+
+This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.<br>
+This has been developed using HTML, CSS, and JavaScript making the project efficient and reliable.
+
+-->Technologies Used:
+
+  • Used HTML,CSS,JavaScript for Front-End and PHP, MySQL for Back-End <br>
+  • In order to run this on the PC PHP MyAdmin and XAMPP is necessary
+  
 Step 1: Login Form (login.html)
 ---
 This HTML file represents a login form where users can enter their credentials to log in.
