@@ -2,8 +2,7 @@
 
 --> Project Description:
 
-This project helps in locating the classes and labs in the college. Currently this is done for NMAMIT, NITTE.<br>
-This has been developed using HTML, CSS, and JavaScript making the project efficient and reliable.
+This project is focused on developing a user-friendly Inventory Management and Invoice System. It will help businesses effectively track inventory, manage sales and purchases, and generate invoices, enhancing overall operational efficiency.
 
 -->Technologies Used:
 
